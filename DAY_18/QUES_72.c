@@ -1,5 +1,5 @@
 // Write a program to Sort array in descending order.
-// WAP to sort array in descending order
+
 #include <stdio.h>
 
 int main()
