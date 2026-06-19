@@ -1,5 +1,5 @@
 // Write a program to Transpose matrix.
-// Write a program to Transpose matrix.
+
 #include <stdio.h>
 
 int main()
