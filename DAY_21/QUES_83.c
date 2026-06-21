@@ -1,8 +1,5 @@
 // Write a program to Count vowels and consonants.
 #include <stdio.h>
-// Write a program to count vowels and consonants
-
-#include <stdio.h>
 
 int main()
 {
